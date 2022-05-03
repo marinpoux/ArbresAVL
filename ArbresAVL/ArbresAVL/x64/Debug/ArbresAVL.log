@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\marin\Desktop\Cours\B\algo\exercices\ArbresBinaires\ArbresAVL\ArbresAVL\ArbresAVL\noeud.h(9,14): warning C4099: 'Noeud' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\marin\Desktop\Cours\B\algo\exercices\ArbresBinaires\ArbresAVL\ArbresAVL\ArbresAVL\noeud.h(5): message : voir la déclaration de 'Noeud'
+C:\Users\marin\Desktop\Cours\B\algo\exercices\ArbresBinaires\ArbresAVL\ArbresAVL\ArbresAVL\noeud.h(10,14): warning C4099: 'Noeud' : nom de type déjà rencontré avec 'class' et utilisant maintenant 'struct'
+C:\Users\marin\Desktop\Cours\B\algo\exercices\ArbresBinaires\ArbresAVL\ArbresAVL\ArbresAVL\noeud.h(5): message : voir la déclaration de 'Noeud'
+C:\Users\marin\Desktop\Cours\B\algo\exercices\ArbresBinaires\ArbresAVL\ArbresAVL\ArbresAVL\main.cpp(7,9): warning C4101: 'noeud' : variable locale non référencée
+  ArbresAVL.vcxproj -> C:\Users\marin\Desktop\Cours\B\algo\exercices\ArbresBinaires\ArbresAVL\ArbresAVL\x64\Debug\ArbresAVL.exe
