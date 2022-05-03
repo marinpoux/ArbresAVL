@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arbre.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="noeud.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="arbre.h" />
